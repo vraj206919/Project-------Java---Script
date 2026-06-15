@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Status Checker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <h2>Number Status Checker</h2>
+
+        <form id="checkForm">
+            <label for="userNumber">ENTER NUMBER :</label>
+
+            <input
+                type="number"
+                id="userNumber"
+                step="any"
+                placeholder="Type a number..."
+                required
+            >
+
+            <button type="submit">Check Number</button>
+
+            <p id="displayResult"></p>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
