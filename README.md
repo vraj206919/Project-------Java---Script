@@ -2,6 +2,8 @@
 
 A collection of beginner-friendly JavaScript projects built to practice programming logic, conditions, loops, functions, and DOM manipulation.
 
+PROJECT VIDEO LINK : - https://drive.google.com/file/d/1uT4YDqiwzWELD7rA8YSDwurMEeDX_RxE/view?usp=sharing
+
 ## 📚 Projects
 
 | No. | Project | Link |
